@@ -5,7 +5,7 @@
 > A detailed view section of the Taj Mahal with an embedded YouTube video using Bootstrap’s embed utility, along with descriptive text.
 
 ## 🚀 Live Demo  
-👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-Place-Detailed-View-Embed-YouTube-Video/)
+👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-Places-Detailed-View-Embed-YouTube-Video/)
 
 ## 🧑‍💻 Technologies Used  
 - **HTML5** – Semantic page structure  
